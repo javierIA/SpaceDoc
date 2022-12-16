@@ -36,7 +36,8 @@ Las empresas con template, son aquellas empresas que cuentan con un template pre
 
 ### Base de datos
 
-![](assets\2022-12-16-09-46-08-Diagrama.png)
+
+<img title="" src="assets\2022-12-16-09-46-08-Diagrama.png">
 
 La base de datos parece contener las siguientes tablas y campos:
 
