@@ -24,7 +24,7 @@ El funcionamiento de spacebot consiste en 4 modulos los cuales son independiente
 
 La suluciones propuestas se dividen en 2 la cuales se le donominan como empresas con template y empresas sin el mismo. la cual cada una cuenta con el entorno de desarrollo personalizado para cada una de ellas, esto para que cada una de las empresas asociadas al cliente pueda generar las soluciones deseadas.
 
-![MarineGEO circle logo](assets\BotSpace.png)
+<img title="" src="assets\BotSpace.png">
 
 #### Empresas con Template
 
