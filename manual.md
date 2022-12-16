@@ -58,6 +58,7 @@ La vista home ofrese una lista detallada de los procesos que tiene en cola el bo
 
 
 <img title="" src="assets\2022-12-15-14-38-27-image.png">
+
 #### Upload(Client,Admin)
 
 La vista upload es una parte importante de los sistemas de procesamiento de facturas. Esto permite a los usuarios subir sus facturas de manera rápida y sencilla. Esta interfaz de arrastrar y soltar reduce significativamente el tiempo necesario para subir los archivos, lo que ahorra tiempo y esfuerzo. La vista upload también ofrece una forma segura de enviar archivos, ya que los archivos son encriptados para evitar el acceso no autorizado. Esto garantiza que los datos de los usuarios estén seguros. Además, la vista upload también ofrece una opción de comprobación de errores para asegurarse de que los archivos se carguen correctamente. Esto evita los errores de archivo y garantiza que los archivos se procesen correctamente.
@@ -89,5 +90,5 @@ La admin ofrece en dashboard de administracion de usuarios que le permiten admin
 
 Asignas permisos y editar los usuarios activos del la web.
 
-![]
+
 <img title="" src="assets\2022-12-15-15-28-45-image.png">
