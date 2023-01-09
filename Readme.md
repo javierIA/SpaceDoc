@@ -107,7 +107,8 @@ Para poder usar el SpaceBot, es necesario tener una computadora con los siguient
 
 [Instruciones de uso](manual.md)
 
-[Servicio](service.md)
+[IA](ia.md)
 
+[Servicio](service.md)
 
 [Fallas comunes](fix.md)
